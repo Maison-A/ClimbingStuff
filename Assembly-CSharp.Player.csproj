@@ -57,10 +57,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\climber\climberRight\testCollision.cs" />
-    <Compile Include="Assets\SphereController.cs" />
-    <Compile Include="Assets\Scripts\climber\climberRight\RightFootController.cs" />
     <Compile Include="Assets\Scripts\climber\climberLeft\LeftFootController.cs" />
+    <Compile Include="Assets\Scripts\climber\climberRight\RightFootController.cs" />
     <Compile Include="Assets\MouseDetailsScript.cs" />
+    <Compile Include="Assets\SphereController.cs" />
     <Compile Include="Assets\Scripts\climber\climberRight\RightHandController.cs" />
   </ItemGroup>
   <ItemGroup>
